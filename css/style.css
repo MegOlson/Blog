@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  color: #C71585;
+}
+h2{
+  text-align: center;
+}
+img{
+  display:block;
+  margin: 0 auto;
+}
+.post1{
+  font-size: 20px;
+  background-color: pink;
+  }
+
+.post2 {
+  font-size: 20px;
+  background-color: #DB7093;
+}
+.post3 {
+  font-size: 20px;
+  background-color:#D8BFD8;
+}
+
+.about {
+  font-size: 20px;
+  background-color: #FFE4E1;
+}
+body{
+  margin:50px 50px 50px 50px;
+}
